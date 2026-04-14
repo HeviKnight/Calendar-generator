@@ -37,4 +37,4 @@ A monthly calendar generator built with PHP and a modern, responsive UI.
 
 ## Author
 
-Repository: https://github.com/HeviKnight/Calendar-generator
+Nicolás Hideo Vílchez Imanishi
